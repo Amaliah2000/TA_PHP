@@ -1,0 +1,10 @@
+body {
+	background : #34495E;
+	font-family: sans-serif ;
+	color : #fafafa;
+}
+h1{
+    text-align: center;
+  /*ketebalan font*/
+  font-weight: 200;
+}
